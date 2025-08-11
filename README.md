@@ -2,11 +2,7 @@
 
 Welcome to the source code of my personal portfolio website. This project is a showcase of my work, skills, and passion for electronics engineering, research, and innovation. It's designed to be a dynamic and modern representation of my professional journey.
 
-### **[🚀 Live Demo](https://your-username.github.io/your-repo-name/)**
-*Replace the link above with your actual live URL once deployed.*
 
-![Portfolio Screenshot](https://via.placeholder.com/1200x600/1e1e1e/00bfff?text=Portfolio+Website+Screenshot)
-*Be sure to replace this placeholder with an actual screenshot of your website!*
 
 ---
 
